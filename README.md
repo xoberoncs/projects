@@ -1,1 +1,1 @@
-# Solo-Projects
+# Projects
